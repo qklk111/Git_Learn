@@ -6,3 +6,6 @@ new line1 i am a big monkey;
 
 new line2 i am a small monkey;
   ---- by monkey
+
+new changes to study the index
+  ---- by monkey
